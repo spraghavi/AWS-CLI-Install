@@ -1,4 +1,4 @@
-I install and configure the AWS CLI on a Red Hat Linux instance because this instance type does not have the AWS CLI pre-installed. Some instance types, such as Amazon Linux, do come pre-installed with the AWS CLI. 
+I installed and configured the AWS CLI on a Red Hat Linux instance because this instance type does not have the AWS CLI pre-installed. Some instance types, such as Amazon Linux, do come pre-installed with the AWS CLI. 
 I established a Secure Shell (SSH) connection to the instance. You configure the installation with an access key that can connect to an AWS account. Finally, using the AWS CLI to interact with AWS Identity and Access Management (IAM).
 
 ![image](https://github.com/spraghavi/AWS-CLI-Install/assets/117675078/c047cc3a-c171-4e66-a7e8-0afdcc7f9d8f)
